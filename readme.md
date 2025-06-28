@@ -7,10 +7,8 @@ A minimalist desktop GUI for [Ollama](https://ollama.com), built in Python using
 - 💬 Simple interface with auto-focus
 - 🪶 No external GUI dependencies
 
-![image](https://github.com/user-attachments/assets/376cf459-b55a-4094-8994-546741edc8f9)
+![image](https://github.com/user-attachments/assets/eedea7cb-c0d8-4bbe-bf3a-996f504ae5fc)
 
-
----
 
 ## 📦 Requirements
 
